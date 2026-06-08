@@ -26,6 +26,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-paper-on-long-run-pricing-in-markets-with-non-convexities-has-won-the-2024-informs-best-paper-in-energy-award",
           title: 'My paper on long-run pricing in markets with non-convexities has won the 2024...',
           description: "",
+          section: "News",},{id: "news-a-new-working-paper-on-electricity-market-design-and-risk-focusing-on-participatory-active-demand-is-available-we-also-have-an-expanded-policy-brief-on-participatory-demand-and-new-large-loads",
+          title: 'A new working paper on electricity market design and risk, focusing on participatory...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
