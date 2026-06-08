@@ -26,7 +26,8 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an [Environmental Fellow](https://environment.harvard.edu/people/conleigh-byers) hosted by the Harvard Kennedy School of Government and the Salata Institute for Climate and Sustainability. My research uses tools from operations research, electrical engineering, and economics to design decarbonized energy systems. I focus on electricity market design, power systems operations and planning, and electrification of the building and transportation sectors. 
+I am a researcher and consultant in electricity market design, power systems planning, and electricity sector regulation with FTI Consulting. Previously, I was an [Environmental Fellow](https://environment.harvard.edu/people/conleigh-byers) hosted by the Harvard Kennedy School of Government and the Salata Institute for Climate and Sustainability. My research uses tools from operations research, electrical engineering, and economics to design decarbonized energy systems. 
+<!-- I focus on electricity market design, power systems operations and planning, and electrification of the building and transportation sectors.  -->
 
 I received my doctorate in Electrical Engineering from ETH Zürich, the S.M. in Electrical Engineering & Computer Science and S.M. in Technology & Policy from the Massachusetts Institute of Technology and a B.S.E. from Princeton University. 
 <!-- I am also a [Resident Tutor](https://dudley.harvard.edu/people/conleigh-byers) in the Dudley Community at Harvard. -->
